@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Niranjanreddy4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi there! I'm Niranjan Reddy
 
-<!---
-Niranjanreddy4/Niranjanreddy4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Aspiring **Data Analyst**  
+💡 Passionate about data, insights, and business intelligence  
+🛠️ Tools: **Python**, **SQL**, **Power BI**, **Excel**
+
+🌱 Currently learning: Advanced Excel, DAX, and Data Storytelling  
+📊 Building dashboards and doing mini data projects  
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/niranjanreddy-)  
